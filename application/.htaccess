@@ -1,0 +1,3 @@
+<Directory "/www/htdocs/index.php">
+    AddType text/index.php 
+</Directory>
